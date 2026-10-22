@@ -2,7 +2,7 @@ export const profile = {
   name: "Arijeet Ghosh",
   first: "ARIJEET",
   last: "GHOSH",
-  role: "Software Engineer — React Native & Full-Stack",
+  role: "Software Engineer",
   location: "Durgapur, India",
   availability: "open to remote or onsite",
   summary:
